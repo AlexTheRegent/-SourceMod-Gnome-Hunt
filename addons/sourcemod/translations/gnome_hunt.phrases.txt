@@ -1,0 +1,157 @@
+"Phrases"
+{
+	"menu_action_title"
+	{
+		"#format"		""
+		"ru"			"Действия:\n "
+		"en"			"Action:\n "
+	}
+	"menu_action_origin"
+	{
+		"#format"		""
+		"ru"			"Подвинуть"
+		"en"			"Move"
+	}
+	"menu_action_angles"
+	{
+		"#format"		""
+		"ru"			"Повернуть"
+		"en"			"Rotate"
+	}
+	"menu_action_save"
+	{
+		"#format"		""
+		"ru"			"Сохранить"
+		"en"			"Save"
+	}
+	"menu_action_remove"
+	{
+		"#format"		""
+		"ru"			"Удалить одного гнома"
+		"en"			"Remove one gnome"
+	}
+	"menu_action_delete"
+	{
+		"#format"		""
+		"ru"			"Удалить всех"
+		"en"			"Delete all"
+	}
+	
+	"menu_origin_title"
+	{
+		"#format"		""
+		"ru"			"Подвинуть:\n "
+		"en"			"Move:\n "
+	}
+	"menu_origin_add_x"
+	{
+		"#format"		""
+		"ru"			"x+"
+		"en"			"x+"
+	}
+	"menu_origin_sub_x"
+	{
+		"#format"		""
+		"ru"			"x-"
+		"en"			"x-"
+	}
+	"menu_origin_add_y"
+	{
+		"#format"		""
+		"ru"			"y+"
+		"en"			"y+"
+	}
+	"menu_origin_sub_y"
+	{
+		"#format"		""
+		"ru"			"y-"
+		"en"			"y-"
+	}
+	"menu_origin_add_z"
+	{
+		"#format"		""
+		"ru"			"z+"
+		"en"			"z+"
+	}
+	"menu_origin_sub_z"
+	{
+		"#format"		""
+		"ru"			"z-"
+		"en"			"z-"
+	}
+	
+	"menu_angles_title"
+	{
+		"#format"		""
+		"ru"			"Повернуть:\n "
+		"en"			"Rotate:\n "
+	}
+	"menu_angles_add_x"
+	{
+		"#format"		""
+		"ru"			"x+"
+		"en"			"x+"
+	}
+	"menu_angles_sub_x"
+	{
+		"#format"		""
+		"ru"			"x-"
+		"en"			"x-"
+	}
+	"menu_angles_add_y"
+	{
+		"#format"		""
+		"ru"			"y+"
+		"en"			"y+"
+	}
+	"menu_angles_sub_y"
+	{
+		"#format"		""
+		"ru"			"y-"
+		"en"			"y-"
+	}
+	"menu_angles_add_z"
+	{
+		"#format"		""
+		"ru"			"z+"
+		"en"			"z+"
+	}
+	"menu_angles_sub_z"
+	{
+		"#format"		""
+		"ru"			"z-"
+		"en"			"z-"
+	}
+	
+	"menu_gnome_not_found"
+	{
+		"#format"		""
+		"ru"			"Гном не найден"
+		"en"			"Gnome not found"
+	}
+	
+	"gnome_spawned"
+	{
+		"#format"		""
+		"ru"			"Гном где-то появился"
+		"en"			"Gnome was spawned somewhere"
+	}
+	"gnome_despawned"
+	{
+		"#format"		""
+		"ru"			"Гном пропал"
+		"en"			"Gnome despawned"
+	}
+	"gnome_destroyed"
+	{
+		"#format"		"{1:N}"
+		"ru"			"{1} нашел гнома"
+		"en"			"Gnome was found by {1}"
+	}
+	"gnome_destroyed_by_world"
+	{
+		"#format"		""
+		"ru"			"Гном был уничтожен миром"
+		"en"			"Gnome was destroyed by world"
+	}
+}

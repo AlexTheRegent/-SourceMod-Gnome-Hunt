@@ -1,0 +1,9 @@
+models/props_junk/gnome.dx80.vtx
+models/props_junk/gnome.dx90.vtx
+models/props_junk/gnome.mdl
+models/props_junk/gnome.phy
+models/props_junk/gnome.sw.vtx
+models/props_junk/gnome.vvd
+materials/models/props_junk/gnome.vmt
+materials/models/props_junk/gnome.vtf
+materials/models/props_junk/gnome_normal.vtf
